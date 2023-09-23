@@ -1,0 +1,9 @@
+Building Pandia
+
+See doc/readme-qt.rst for instructions on building Pandia-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Pandia.
+
+See doc/build-*.txt for instructions on building pandiad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Pandia.
